@@ -1,0 +1,3 @@
+Projeto AAFP -  Associação de Apoio às Famílias de Pernambuco (AAFP)
+
+Este repositório foi desenvolvido como parte de um projeto de extensão no curso de Aplicações em Python, com foco em soluções de Cloud, IoT e Indústria 4.0 da Estácio. O sistema, agora adaptado, visa apoiar famílias em vulnerabilidade social por meio do aplicativo AAFP, utilizando tecnologias de monitoramento de recursos, comunicação com ONGs e análise de dados sociais para promover assistência de forma mais eficiente e conectada.
